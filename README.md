@@ -65,9 +65,9 @@ visual-regression-testing/
 ├── playwright.config.js
 ├── tests/
 │   ├── visual.spec.js
-│   └── __snapshots__/
-│       └── visual.spec.js-snapshots/
-│           └── paystation  ← ✅ your  images are inside here
+│   └── __snapshots__/ #make directory
+│       └── visual.spec.js-snapshots/ #make directory
+│           └── paystation  ← run this: npm run figma:download ✅ your  images will be inside this
 ├── utils/
 │   └── scrollUtils.js
 
