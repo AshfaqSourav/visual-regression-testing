@@ -15,7 +15,7 @@ This project provides a fully automated **visual regression testing pipeline** u
 - Screenshot actual production pages
 - Side-by-side **Expected / Actual / Diff / side by side/Slider** in playwright report
 - Scroll-to-bottom support for full content rendering
-- Modular structure for easy reuse across multiple pages/modules/devices
+- Automatic visual report by playwright
 
 ---
 
